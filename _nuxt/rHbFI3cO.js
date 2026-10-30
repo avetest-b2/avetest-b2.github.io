@@ -1,0 +1,1 @@
+import{k as i}from"./Wu3CviY8.js";import{Ga as o}from"./Dhh-cuPB.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
